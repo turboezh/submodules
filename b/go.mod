@@ -1,3 +1,3 @@
-module github.com/go-modules-by-example/submodules/b
+module github.com/turboezh/submodules/b
 
 go 1.12
