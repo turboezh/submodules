@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/go-modules-by-example/submodules/b"
+	"github.com/turboezh/submodules/b/v2"
+
 	"fmt"
 )
 
